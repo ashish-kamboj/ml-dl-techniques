@@ -1,0 +1,21 @@
+## Different Algorithms for Regression
+
+- Linear Regression
+- Ridge Regression
+- Lasso Regression
+- Elastic Net
+- Bayesian Ridge
+- Lasso Least Angle Regression
+- K Neighbors Regressor
+- Decision Tree Regressor
+- Random Forest Regressor
+- Extra Trees Regressor
+- CatBoost Regressor
+- AdaBoost Regressor
+- Gradient Boosting Regressor
+- Extreme Gradient Boosting
+- Light Gradient Boosting Machine
+- Orthogonal Matching Pursuit
+- Huber Regressor
+- Least Angle Regression
+- Passive Aggressive Regressor
