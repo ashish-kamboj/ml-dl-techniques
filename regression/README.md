@@ -5,6 +5,7 @@
 - Lasso Regression
 - Elastic Net
 - Bayesian Ridge
+- Least Angle Regression
 - Lasso Least Angle Regression
 - K Neighbors Regressor
 - Decision Tree Regressor
