@@ -7,16 +7,15 @@
 - Bayesian Ridge
 - Least Angle Regression
 - Lasso Least Angle Regression
-- K Neighbors Regressor
-- Decision Tree Regressor
-- Random Forest Regressor
-- Extra Trees Regressor
-- CatBoost Regressor
-- AdaBoost Regressor
-- Gradient Boosting Regressor
-- Extreme Gradient Boosting
-- Light Gradient Boosting Machine
+- K Neighbors Regression
+- Decision Tree Regression
+- Random Forest Regression
+- Extra Trees Regression
+- Gradient Boosting Regression
+- CatBoost Regression
+- AdaBoost Regression
+- Extreme Gradient Boosting(XGBoost)
+- Light Gradient Boosting Machine(LightGBM)
 - Orthogonal Matching Pursuit
-- Huber Regressor
-- Least Angle Regression
-- Passive Aggressive Regressor
+- Huber Regression
+- Passive Aggressive Regression
