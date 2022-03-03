@@ -1,17 +1,22 @@
 ## Different Algorithms for Classification
 
 - Logistic Regression
-- Ridge Classifier
-- K Neighbors Classifier
+- Ridge Classification
+- K Neighbors Classification
 - Naive Bayes
+  - Gaussian Naive Bayes
+  - Multinomial Naive Bayes
+  - Complement Naive Bayes
+  - Bernoulli Naive Bayes
+  - Categorical Naive Bayes
 - SVM - Linear Kernel
 - Linear Discriminant Analysis
 - Quadratic Discriminant Analysis
-- Decision Tree Classifier
-- Random Forest Classifier
-- Extra Trees Classifier
-- CatBoost Classifier
-- Ada Boost Classifier
-- Gradient Boosting Classifier
-- Extreme Gradient Boosting
-- Light Gradient Boosting Machine
+- Decision Tree Classification
+- Random Forest Classification
+- Extra Trees Classification
+- CatBoost Classification
+- AdaBoost Classification
+- Gradient Boosting Classification
+- Extreme Gradient Boosting(XGBoost)
+- Light Gradient Boosting Machine(LightGBM)
