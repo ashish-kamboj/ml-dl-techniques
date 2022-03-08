@@ -9,7 +9,10 @@
   - Complement Naive Bayes
   - Bernoulli Naive Bayes
   - Categorical Naive Bayes
-- SVM - Linear Kernel
+- Support Vector Machine(SVM)
+  - SVC
+  - NuSVC
+  - LinearSVC
 - Linear Discriminant Analysis
 - Quadratic Discriminant Analysis
 - Decision Tree Classification
