@@ -3,3 +3,9 @@
 - pandas-profiling
 - Lux
 - QuickDA
+- DataPrep
+- SweetVIZ
+- D-TALE
+- AutoViz
+- Klib
+- Mito
