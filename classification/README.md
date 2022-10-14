@@ -1,7 +1,7 @@
 ## Different Algorithms for Classification
 
-|Classification Algorithms        |Algorithm Type       |
-|:--------------------------------|:--------------------|
+|Classification Algorithms                                                                                                          |Algorithm Type       |
+|:----------------------------------------------------------------------------------------------------------------------------------|:--------------------|
 |[Logistic Regression](https://github.com/ashish-kamboj/ml-dl-techniques/blob/main/classification/logistic_regression_sklearn.ipynb)|Linear classifier|
 |[Ridge Classification](https://github.com/ashish-kamboj/ml-dl-techniques/blob/main/classification/ridge_classification_sklearn.ipynb)|Linear classifier|
 |[K Neighbors Classification](https://github.com/ashish-kamboj/ml-dl-techniques/blob/main/classification/k_neighbors_classification_sklearn.ipynb)|Nearest Neighbor|
@@ -22,5 +22,5 @@
 |[AdaBoost Classification](https://github.com/ashish-kamboj/ml-dl-techniques/blob/main/classification/adaboost_classification_sklearn.ipynb)|Ensemble Method|
 |[Gradient Boosting Classification](https://github.com/ashish-kamboj/ml-dl-techniques/blob/main/classification/gradient_boosting_classification_sklearn.ipynb)|Ensemble Method|
 |[Extreme Gradient Boosting(XGBoost)](https://github.com/ashish-kamboj/ml-dl-techniques/blob/main/classification/xgboost_classification.ipynb)|Ensemble Method|
-|[Light Gradient Boosting Machine(LightGBM)](https://github.com/ashish-kamboj/ml-dl-techniques/blob/main/classification/lightgbm_classification.ipynb|Ensemble Method|
+|[Light Gradient Boosting Machine(LightGBM)](https://github.com/ashish-kamboj/ml-dl-techniques/blob/main/classification/lightgbm_classification.ipynb)|Ensemble Method|
 
