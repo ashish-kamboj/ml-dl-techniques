@@ -4,7 +4,7 @@
 |:--------------------------------------------------------------------------------------------------------------------------------|:-----------------------|
 |[Linear Regression](https://github.com/ashish-kamboj/ml-dl-techniques/blob/main/regression/linear_regression_(ols)_sklearn.ipynb)|Classic Linear Regressor|
 |[Ridge Regression](https://github.com/ashish-kamboj/ml-dl-techniques/blob/main/regression/ridge_regression_sklearn.ipynb)|Classic Linear Regressor|
-|[Lasso Regression](https://github.com/ashish-kamboj/ml-dl-techniques/blob/main/regression/lasso_regression_sklearn.ipynb|Regressors with variable selection|
+|[Lasso Regression](https://github.com/ashish-kamboj/ml-dl-techniques/blob/main/regression/lasso_regression_sklearn.ipynb)|Regressors with variable selection|
 |[Least Angle Regression](https://github.com/ashish-kamboj/ml-dl-techniques/blob/main/regression/least_angle_regression_sklearn.ipynb)|Regressors with variable selection|
 |[Lasso Least Angle Regression](https://github.com/ashish-kamboj/ml-dl-techniques/blob/main/regression/lasso_least_angle_regression_sklearn.ipynb)|Regressors with variable selection|
 |[Orthogonal Matching Pursuit](https://github.com/ashish-kamboj/ml-dl-techniques/blob/main/regression/orthogonal_matching%20pursuit_regression_sklearn.ipynb)  |Regressors with variable selection|
