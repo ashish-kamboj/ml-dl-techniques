@@ -3,7 +3,7 @@
 |Data Cleaning Libraries |References                                         |
 |:-----------------------|:---------------------------------------------------|
 |Arrow                  |[GitHub](https://github.com/arrow-py/arrow) <br> [Documentation](https://arrow.readthedocs.io/en/latest/)|
-|DataPrep               |[GitHub](https://github.com/sfu-db/dataprep) <br> Documentation](https://docs.dataprep.ai/)|
+|DataPrep               |[GitHub](https://github.com/sfu-db/dataprep) <br> [Documentation](https://docs.dataprep.ai/)|
 |DataCleaner            |[GitHub](https://github.com/rhiever/datacleaner)     |
 |Dora                   |[GitHub](https://github.com/NathanEpstein/Dora) <br> [Documentation](https://nicta.github.io/dora/intro.html)|
 |[Klib](https://github.com/ashish-kamboj/ml-dl-techniques/blob/main/data-cleaning/data_cleaning_using_klib.ipynb)|[GitHub](https://github.com/akanz1/klib) <br> [Documentation](https://klib.readthedocs.io/en/latest/)|
