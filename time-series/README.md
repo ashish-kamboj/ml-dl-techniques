@@ -28,6 +28,7 @@ Other algorithms for time-series forecasting are-
 |Python Library |Details                                                                                          |
 |:--------------|:------------------------------------------------------------------------------------------------|
 |Darts          |[GitHub](https://github.com/unit8co/darts) <br> [Documentation](https://unit8co.github.io/darts/)|
+|nixtla         |[GitHub](https://github.com/Nixtla) <br> [API Reference](https://docs.nixtla.io/docs)|
 
   > **_References:_**
   - [Darts’ Swiss Knife for Time Series Forecasting](https://towardsdatascience.com/darts-swiss-knife-for-time-series-forecasting-in-python-f37bb74c126)
