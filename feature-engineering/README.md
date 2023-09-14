@@ -1,7 +1,7 @@
 ## Tools/Libraries For Automated Feature Engineering
 
 | Tools/Measures  | Support for type of databases | Feature engineering | Feature selection | Open source implementation | Support for time series |
-| --------------- | ----------------------------- | ------------------- | ----------------- | -------------------------- | ----------------------- |
+| --------------- |:----------------------------- |:------------------- |:----------------- |:-------------------------- |:----------------------- |
 | Featuretools    | Relational Tables             | Yes                 | Yes               | Yes                        | Yes                     |
 | AutoFeat        | Single Table                  | Yes                 | Yes               | Yes                        | No                      |
 | TSFresh         | Single Table                  | Yes                 | Yes               | Yes                        | Yes                     |
@@ -14,3 +14,5 @@
 <ins>**References:**</ins>
 - [Automated Feature Engineering Tools](https://medium.com/analytics-vidhya/automated-feature-engineering-tools-44d00be56e3a)
 - [The Best Feature Engineering Tools](https://neptune.ai/blog/feature-engineering-tools)
+- [Automated Feature Engineering Basics - Featuretools](https://www.kaggle.com/code/willkoehrsen/automated-feature-engineering-basics)
+- [Automated Feature Engineering in Python - Featuretools](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
